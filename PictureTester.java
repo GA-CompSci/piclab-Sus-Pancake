@@ -33,7 +33,7 @@ public class PictureTester {
         // testMirrorVerticalRightToLeft();
         // testMirrorHorizontal();
         // testMirrorHorizontalBotToTop();
-        // testMirrorDiagonal();
+        testMirrorDiagonal();
 
         // ---------------
         // ACTIVITY 7
