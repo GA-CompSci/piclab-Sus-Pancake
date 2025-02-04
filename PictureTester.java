@@ -19,25 +19,25 @@ public class PictureTester {
 
         // ------------
         // ACTIVITY 5
-        // testZeroBlue();
-        // testKeepOnlyBlue();
-        // testKeepOnlyRed();
-        // testKeepOnlyGreen();
-        // testNegate();
-        // testGrayscale();
-        // testFixUnderwater();
+        // testZeroBlue(); done
+        // testKeepOnlyBlue(); done
+        // testKeepOnlyRed(); done
+        // testKeepOnlyGreen(); done
+        // testNegate(); done
+        // testGrayscale(); done
+        // testFixUnderwater(); 
 
         // --------------
-        // ACTIVITY 6
-        // testMirrorVertical();
-        // testMirrorVerticalRightToLeft();
-        // testMirrorHorizontal();
-        // testMirrorHorizontalBotToTop();
-        testMirrorDiagonal();
+        // ACTIVITY 6 done
+        // testMirrorVertical(); done
+        // testMirrorVerticalRightToLeft(); done
+        // testMirrorHorizontal(); done
+        // testMirrorHorizontalBotToTop(); done
+        // testMirrorDiagonal(); done
 
         // ---------------
         // ACTIVITY 7
-        // testMirrorTemple();
+        // testMirrorTemple(); done
         // testMirrorArms();
         // testMirrorGull();
 
@@ -46,8 +46,8 @@ public class PictureTester {
         // testCollage();
 
         // ---------------
-        // ACTIVITY 9
-        // testEdgeDetection();
+        // ACTIVITY 9 done
+        testEdgeDetection();
 
         // ---EXTRA---
         // testPopArt();
